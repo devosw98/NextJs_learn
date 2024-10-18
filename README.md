@@ -4,4 +4,6 @@ Para crear una aplicación Next.js, abra su terminal,cden la carpeta donde desea
 
     npx create-next-app@latest nextjs-dashboard --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example" --use-pnpm
 
+inicializamos el proyecto desde el repo de nextJs (para el ejemplo del curso)
 
+    npx create-next-app@latest nextjs-dashboard --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example" --use-pnpm
